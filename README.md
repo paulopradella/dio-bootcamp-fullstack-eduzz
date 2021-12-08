@@ -1,3 +1,3 @@
 Bootcamp Fullstack Eduzz-DIO
 
- Repositório do bootcamp realizado na DIO.
+ Repositório criado para embarcar todo o conhecimento adquirido durante o BootCamp Fullsack Eduzz realizado na plataforma DIO (Digital Innovation One).
