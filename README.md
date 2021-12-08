@@ -1,2 +1,2 @@
 # dio-bootcamp-fullstack-eduzz
- Repositório do boocamp realizado na DIO
+ Repositório do bootcamp realizado na DIO.
