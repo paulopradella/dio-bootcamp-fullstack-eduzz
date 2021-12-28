@@ -1,26 +1,34 @@
 <!DOCTYPE html>
+<!--Abertura-->
 <html>
 
 <head>
     <meta charset="utf-8">
     <title>Bode Velho</title>
+    <!--Titulo-->
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <header>
-        <img src="Unknown.png" alt="Ilustração 8bits Iron Man">
-        <h1>Bode Velho</h1>
+        <img src="Unknown.png" alt="Ilustração 8bits Iron Man" class="photo">
+        <!--Imagem antes do titulo-->
+        <h1 id="title">Teste aula</h1>
+        <!--Titulo, só pode um H1 por pagina-->
     </header>
     <section>
         <header>
-            <h2>Posts</h2>
+            <h2 class="subtitle">Posts</h2>
+            <!--Fala que viram posts a seguir-->
         </header>
-        <article>
+        <article class="post">
             <header>
-                <h3>Post #1</h3>
-                <img src="postagem.png" alt="imagem postagem">
+                <h3 class="post_title">Post #1</h3>
+                <!--Titulo/identificação do post-->
+                <img src="postagem.png" alt="imagem postagem" class="post_image">
+                <!--Imagem antes do post-->
             </header>
-            <p>
+            <p class="post_content">
                 Lorem ipsum dolor sit amet, consectetur adipiscing <a href="https://www.linkedin.com/" target="_blank">elit</a>. Nulla porttitor sapien sagittis tortor elementum, nec commodo odio eleifend. Maecenas a tincidunt nulla. Nulla facilisi. Maecenas
                 id auctor enim, a fringilla quam. Vivamus lobortis ultricies leo a lobortis. Proin consectetur <a href="mailto:blablabla@tem.com">erat</a> malesuada, cursus velit quis, facilisis ex. In sit amet justo dictum, auctor justo sit amet, lacinia
                 purus.
@@ -28,7 +36,8 @@
         </article>
     </section>
     <footer>
-        <ul>
+        <!--O que estiver dentro estará no rodapé-->
+        <ul class="contacts_list">
             <!--Lista não ordenada-->
             <li>
                 <a href="mailto:blablabla@tem.com">blablabla@tem.com</a>
@@ -40,8 +49,8 @@
                 <a href="https://github.com" target="_blank">GitHub</a>
             </li>
         </ul>
-        <ol>
-            <!--Lista ordenada-->
+        <!-- <ol>
+            Lista ordenada
             <li>
                 <a href="mailto:blablabla@tem.com">blablabla@tem.com</a>
             </li>
@@ -51,7 +60,7 @@
             <li>
                 <a href="https://github.com" target="_blank">GitHub</a>
             </li>
-        </ol>
+        </ol>-->
     </footer>
 </body>
 
