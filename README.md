@@ -17,3 +17,13 @@
 * Aprenda a utilizar desvios condicionais e boas práticas em programação
 * Trabalhando com laços de repetição em Portugol
 * Aplicação prática com matrizes e vetores
+
+### Introdução a criação de websites com HTML5 e CSS3:<h3>
+1. Introdução ao curso de HTML
+2. Enentedendo o que é semântica
+3. Como usar textos e links em HTML
+4. Como inserir uma imagem em seu site
+5. Como organizar listas com HTML
+6. Introdução e conceitos básicos de CSS3
+7. Estilizando elementos, textos e listas
+8. Dimesão e alinhamento
