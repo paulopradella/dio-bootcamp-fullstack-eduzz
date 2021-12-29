@@ -27,3 +27,17 @@
 6. Introdução e conceitos básicos de CSS3
 7. Estilizando elementos, textos e listas
 8. Dimesão e alinhamento
+### JavaScript ES6 essencial:<h3>
+1. Introdução ao ES6
+* História e conceitos
+* Curryng, Hoisting, Imutabilidade, Tipos e Variáveis
+2. Tipos, variáveis, operadores, condicionais e repetição JavaScript ES6
+* Tipos e variáveis
+* Functions e operadores
+* Spred, estruturas condicionais e repetição
+3. Orientação a objeto e Design Patterns com a linguagem ES6
+* Introdução a orientação a objetos
+* Introdução a Design Patterns
+4. Manipulacão e iterração de arrays
+* Crtiando e manipulando arrays
+* Iterar, buscar e transformar elemetntos
