@@ -1,0 +1,16 @@
+{
+    "name": "dio-typescript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+
+    "scripts": {
+        "start": "parcel index.html",
+        "test": "echo \"Error: no test specified\" && exit1"
+    },
+    "author": "Paulo Henrique",
+    "license": "MIT",
+    "dependencies": {
+        "parcel-bundler": "^1.12.5"
+    }
+}
