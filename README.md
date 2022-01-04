@@ -87,15 +87,34 @@
 * Crtiando e manipulando arrays
 * Iterar, buscar e transformar elemetntos
 
-<!-- ### Desenvolvimento avaçado com JavaScript Es6:<h3>
-1. Introdução ao curso de HTML
-2. Enentedendo o que é semântica
-3. Como usar textos e links em HTML
-4. Como inserir uma imagem em seu site
-5. Como organizar listas com HTML
-6. Introdução e conceitos básicos de CSS3
-7. Estilizando elementos, textos e listas
-8. Dimesão e alinhamento -->
+### Desenvolvimento avaçado com JavaScript Es6:<h3>
+1. Funções avançadas do ES6
+* Funções avançadas do ES6
+* Aprenda o que é e como trabalhar com Arrow Functions
+* Default Function Arguments
+* Enhanced Object Literals
+2. Aplicando conceitos Rest, Sprea Operator e Destructuring
+* Conheça Rest e Spread Operator
+* Como usar Destructuring em ReactJS
+3. Introdução a Generators
+* Symbols e Iterators
+* Aprenda sobre Generators e onde utilizá-los
+4. Aplicando conceitos Promises e Fetch
+* Introdução da aula
+* Callbacks e Promises
+* Fetch, Async/Await e EventEmitter
+* Aplicando e praticando os conceitos
+5. Conceitos aplicados a qualidade de código e automação de teste em JS
+* Introdução e conceitos da aula
+* Testes, TDD e BDD
+* Conheça Mocha, Chai e Sinon
+* Veja como trabalhar com Chai - uma excelente biblioteca
+* Desenvolvendo códigos com Sinon
+6. Tratamentos de exceção
+* Introdução à aula
+* Como identificar os erros
+* Debugging parte 1
+* Debugging parte 2
 
 ### Introdução ao TypeScript: Explorando classes, tipos e interfaces:<h3>
 1. Exemplo das vantagens fo typescript
@@ -110,4 +129,3 @@
 10. Criando variáveis com propriedade readonly e private
 11. Como importar bibliotecas com typescript
 12. Exemplo de como usar Omit e conclusão do curso
-
