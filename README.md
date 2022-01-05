@@ -129,3 +129,28 @@
 10. Criando variáveis com propriedade readonly e private
 11. Como importar bibliotecas com typescript
 12. Exemplo de como usar Omit e conclusão do curso
+
+### Resolvendo Desafios de Código em Javascript:<h3>
+
+### Resolvendo Desafios Básicos em Javascript:<h3>
+
+### Criando seu jogo de memória estilo Genius<h3>
+
+### Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação<h3>
+
+### Introdução ao ReactJS<h3>
+1. Introduçao ao ReactJS
+* Conheça a tecnologia ReactJS
+* Aprenda a configurar o ReactJS
+* Renderizando elementos
+* Conheça os ecossistemas do ReactJS
+2. Integrando webpack ao desenvolvimento com ReactJS
+* O que é webpack?
+* Aprenda a configurar o webpack
+* Instalação e configuração do ESLint
+3. Conceitos aplicados aos tipos de dados e condições da biblioteca
+* Renderização Condicional
+* Listas e Chaves
+* Manipulando Eventos
+* Conheça dicas para pensar do jeito ReactJS
+* Certifique seu conhecimento
