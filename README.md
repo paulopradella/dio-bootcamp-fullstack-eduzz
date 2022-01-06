@@ -153,3 +153,11 @@
 * Listas e Chaves
 * Manipulando Eventos
 * Conheça dicas para pensar do jeito ReactJS
+
+### Trabalhando com componentes em React<h3>
+* Preparação do ambiente
+* Desenvolvendo o Hello World no App.js
+* Primeiros passos na estrutura de um componente
+* Importando um componente
+* Preparando um componente dinâmico
+* Finalizando um componente dinâmico e conclusão da aula
