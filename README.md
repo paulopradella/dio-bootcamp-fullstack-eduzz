@@ -139,7 +139,7 @@
 ### Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação<h3>
 
 ### Introdução ao ReactJS<h3>
-1. Introduçao ao ReactJS
+1. Introdução ao ReactJS
 * Conheça a tecnologia ReactJS
 * Aprenda a configurar o ReactJS
 * Renderizando elementos
@@ -153,4 +153,3 @@
 * Listas e Chaves
 * Manipulando Eventos
 * Conheça dicas para pensar do jeito ReactJS
-* Certifique seu conhecimento
