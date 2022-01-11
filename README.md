@@ -161,3 +161,43 @@
 * Importando um componente
 * Preparando um componente dinâmico
 * Finalizando um componente dinâmico e conclusão da aula
+
+### Desenvolvimento de aplicações pata internet com React<h3>
+
+1. Trabalhando com estilos em elementos e componentes
+* Introdução e objetivos da aula
+* Aprenda sobre estilização de componentes e elementos CSS
+* Stateful vs Stateless
+* Introdução em Formulários no ReactJS
+2. Introdução ao Redux e fluxos da arquitetura com ReactJS
+* Introdução aos conceitos da aula
+* O que é Flux?
+* Conheça o Redux e como trabalhar com ele
+* Aprenda a prática de como desenvolver código com React e Redux
+3. Comunicação avançada entre aplicações
+* Introdução da aula
+* Rest HTTP com React
+* Imutabilidade e Redux
+* Redux + Rest
+4. Conceitos aplicados a qualidade de código e automação de testes em React
+* Introdução a testes em React
+* TDD e BDD com Jest
+* Debugging
+* Tratamento de erros
+
+### Práticas avançadas em projetos com ReactJS<h3>
+1. Aprofundando sobre o ciclone vida do React
+* Ciclo de Vida e suas fases
+* O que são Hooks e como ele pode otimizar o código
+* Context API
+2. Técnicas com components e DOM
+* Por que trabalhar com Fragments
+* Error Boundaries
+* Render Props
+* Typechecking com PropTypes
+* Refs e DOM
+3. Organizando o seu projeto
+* O que é um Dumb Components
+* Como trabalhar com Dumb Components
+* E Smart Components?
+* Finalizando o projeto
