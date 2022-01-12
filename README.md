@@ -201,3 +201,25 @@
 * Como trabalhar com Dumb Components
 * E Smart Components?
 * Finalizando o projeto
+
+### Introdução ao React Hooks<h3>
+1. Introdução
+* Apresentação do projeto
+* Criando seu projeto
+* Criando sua primeira página e seus respectivos testes
+* Conhecendo o React Styled Components e criando um componente
+* Evoluindo e testando nosso componente
+2. Ajustes estéticos
+* Explorando o React Styled Components um pouco mais
+* Abstraindo melhor nossos componentes
+* Mockando uma API REST em seus testes com msw
+* Evoluindo nosso projeto através do controle de estado
+3. Finalizando o projeto
+* Trabalhando com testes de qualidade
+* Conclusão do projeto
+* Dúvidas
+* GitHub
+
+### Criando aplicações móveis multiplataforma com React Native:<h3>
+
+### Resolvendo Desafios em Javascript<h3>
