@@ -221,5 +221,31 @@
 * GitHub
 
 ### Criando aplicações móveis multiplataforma com React Native:<h3>
+1. Introdução ao React Native
+* Conceitos iniciais
+* Configuração do ambiente
+* Tela inicial da interface do VS Studio Code
+2. Características do React Native
+* Conceitos básicos
+* Configurações de ambiente MacOS
+* Executando projeto no emulador iOS - Parte 1
+* Executando projeto no emulador iOS - Parte 2
+* Configurações de ambiente Linux
+3. Desenvolvendo o primeiro aplicativo
+* Conceitos e sintaxe da linguagem
+* Gerando números randômicos - Parte 1
+* Gerando números randômicos - Parte 2
+* Gerando números randômicos - Parte 3
+* Gerando números randômicos - Parte 4
+4. Estilos e componentes
+* Introdução ao Flexbox
+* App Currículo - Parte 1
+* App Currículo - Parte 2
+* App Currículo - Parte 3
+* App Currículo - Parte 4
+5. Componentes e estados
+* O que são componentes e propriedades
+* Refatorando o App Currículo - Parte 1
+* Refatorando o App Currículo - Parte 2
 
 ### Resolvendo Desafios em Javascript<h3>

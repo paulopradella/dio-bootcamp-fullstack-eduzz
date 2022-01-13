@@ -1,0 +1,1 @@
+export const getQuote=()=>fetch(process.env.RACT_APP_API).then((response)=>response.json());
