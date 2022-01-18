@@ -252,6 +252,8 @@
 
 ### Criando um front-end totalmente componentizado na prática com RactJS<h3>
 
+### Mentoria 04: Projeto Eduzz: Componentizando a aplicação e criando interfaces responsivas<h3>
+
 ### MySql - Trabalhando com as sua primeiras tabelas
 1. Primeiros passos na criação de suas tabelas
 * Introdução ao curso e conceitos iniciais sobre modelo relacional
@@ -263,3 +265,27 @@
 * Selecionando e alterando dados
 * Deletando e ordenando dados
 * Agrupando dados
+
+### Introdução ao MongoDB e Banco de dados NoSQL<h3>
+1. Introdução ao NoQL
+* Apresentação do curso
+* Introdução
+2. Conhecendo os tipos de banco de dados NoSQL
+* Tipos de banco NoSQL
+* Coluna/Família de colunas
+* Chave-valor
+* Documento
+3. Introdução ao MongoDB e instalação
+* Introdução ao MongoDB
+* Instalação
+* MongoDB Cloud
+4. Schema Design e boas práticas
+* Schema Design
+* Boas práticas
+* JSON vs BSON
+5. Alguns conceitos na prática
+* Operações de manipulação de dados
+* Performance e índices
+* Agregações
+
+### Mentoria 05: Projeto Eduzz: Criando a base de dados para suportar a aplicação<h3>
