@@ -289,3 +289,20 @@
 * Agregações
 
 ### Mentoria 05: Projeto Eduzz: Criando a base de dados para suportar a aplicação<h3>
+
+### Introdução ao NodeJS com JavaScript<h3>
+1. Fundamentos de JavaScript e Node
+* Apresentação inicial
+* Preparação básica para iniciar o desafio
+* Conceitos essenciais do Javascript
+* Conhecendo o Node.js
+* Como funciona o Node
+* O que é o NPM?
+* Criando o package.json e o server
+* Melhorando o retorno da criação de servidor
+2. Criando o app para gerenciar uso de memória RAM
+* Importando módulos essenciais e visualização do consumo de memória
+* Implementando a função nativa setInterval
+* Visualizando o consumo de memória no navegador
+* Dúvidas e comentários finais
+* Github
