@@ -6,6 +6,6 @@ CREATE TABLE IF NOT EXISTS application_user(
     username VARCHAR NOT NULL,
     password VARCHAR NOT NULL,
     PRIMARY KEY (uuid)
-)
+);
 
-INSERT INTO application_user (username, password) VALUES ('admin', crypt('admin', 'my_salt'));
+INSERT INTO application_user (username, password) VALUES ('renan', crypt('admin', 'my_salt'));
