@@ -352,3 +352,11 @@
 * Desenvolvendo a busca de usuários validada por token
 * Desenvolvendo a verificação de validação de tokens
 * O que é Refresh Token e a proposta de desafio final
+
+### Resolvendo desafios intermediários em JS<h3>
+
+### Construindo um encurtador de URL<h3>
+
+### Mentoria 06: Projeto Eduzz: Desenvolvendo o back-end da aplicação e plugando com o front-end<h3>
+
+### Mentoria 07: Projeto Eduzz: Entendendoe utilizando serviçoes de mensageria<h3>
