@@ -339,3 +339,16 @@
 * Comentários sobre injeção de dependência
 * Realizando tratamento de erros
 * Desenvolvendo um Error Handling
+
+### Microsserviços e integração com NodeJS<h3>
+1. Passo a Passo para desenvolvimento de MS de autenticação com tokens
+* Apresentação do projeto base e proposta do conteúdo
+* Desenvolvendo a rota de autorização e validando token
+* Decodificando o token recebido e validando credenciais
+* Buscando o usuário e senha conforme solicitação do token
+* Instalação da biblioteca JWT para geração de tokens
+* Criando seu token com JWT
+* Desenvolvendo um middleware para reutilizar as funções de autenticação
+* Desenvolvendo a busca de usuários validada por token
+* Desenvolvendo a verificação de validação de tokens
+* O que é Refresh Token e a proposta de desafio final
