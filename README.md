@@ -323,3 +323,19 @@
 * Desenvolvendo e testando o método post
 * Desenvolvendo e testando o método put e delete
 * Refatorando a rota de status
+
+### NodeJS com bancos de dados relacionais SQL<h3>
+1. Como fazer sua conexão de banco de dados
+* Apresentação do projeto de base e proposta de conteúdo
+* Configuração inicial do node-postgres
+* Primeiros passos para a criação do banco de dados e tabelas
+* Criando a estrutura básica para conexão com banco de dados
+* Realizando uma consulta de usuários
+* Revisão da conexão com o banco de dados e criação de pool de conexões
+2. Criando as funções de manipulação da tabela de usuários
+* Desenvolvendo a consulta de usuários por id
+* Desenvolvendo a inserção de usuários
+* Desenvolvendo o update e o delete de usuários
+* Comentários sobre injeção de dependência
+* Realizando tratamento de erros
+* Desenvolvendo um Error Handling
