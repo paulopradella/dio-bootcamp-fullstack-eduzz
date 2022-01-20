@@ -290,7 +290,7 @@
 
 ### Mentoria 05: Projeto Eduzz: Criando a base de dados para suportar a aplicação<h3>
 
-### Introdução ao NodeJS com JavaScript<h3>
+### Introdução ao Node.JS com JavaScript<h3>
 1. Fundamentos de JavaScript e Node
 * Apresentação inicial
 * Preparação básica para iniciar o desafio
@@ -304,5 +304,22 @@
 * Importando módulos essenciais e visualização do consumo de memória
 * Implementando a função nativa setInterval
 * Visualizando o consumo de memória no navegador
-* Dúvidas e comentários finais
-* Github
+
+### Explorando o Estilo Arquitetural REST com Node.JS<h3>
+1. Entendendo e preparando seu projeto
+* Apresentação inicial
+* Conteúdo previsto
+* Como funciona a API Rest do projeto
+* Requisitos para o desenvolvimento
+* Criando um projeto com node e Hello world!
+* Entendendo a estrutura do Typescript
+* Como desenvolver em Typescript
+2. Desenvolvendo o projeto
+* Criando um servidor com express
+* Automatizando o servidor para identificar alterações no código
+* Introdução ao desenvolvimento do CRUD de usuários
+* Implementando rota por id de usuário
+* Facilitando o uso de statusCode no seu código
+* Desenvolvendo e testando o método post
+* Desenvolvendo e testando o método put e delete
+* Refatorando a rota de status
