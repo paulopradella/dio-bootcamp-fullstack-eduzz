@@ -360,3 +360,60 @@
 ### Mentoria 06: Projeto Eduzz: Desenvolvendo o back-end da aplicação e plugando com o front-end<h3>
 
 ### Mentoria 07: Projeto Eduzz: Entendendoe utilizando serviçoes de mensageria<h3>
+
+### Fundamentos de arquitetura de sistemas<h3>
+1. Vantagens e desenvolvimento de Web Services
+* O que são Web Services
+* Estrutura SOAP
+* Entendendo o que é WSDL e XSD
+* Aprenda o que são REST, API e JSON
+* Veja sobre integração com REST e métodos HTTP na prática
+2. Conceitos de arquitetura em aplicações para Internet
+* Introdução a arquitetura de sistemas
+* Comparando os modelos Monolito e Microsserviços
+* Gerenciamento de erros e volume de acesso
+3. A arquitetura de aplicações móveis e internet das coisas
+* Conceitos da Internet das Coisas
+* Arquitetura da internet das coisas e protocolo de comunicação
+* Flexibilidade dos tópicos e Cloud
+* Estudo de caso
+
+### Introdução a orquestração e contêineres com Docker<h3>
+1. Introdução ao tema
+* VM e Container
+* Arquitetura do Docker
+* Criando nosso primeiro container
+2. Primeiros passos com o Docker
+* Instalando o Docker no Linux
+* Instalando o Docker no Windows
+* Principais Comandos - Parte 1
+* Principais Comandos - Parte 2
+* Principais Comandos - Parte 3
+3. Rede do Docker
+* Tipos de rede e como funciona
+* Exemplos Práticos - Parte 1
+* Exemplos Práticos - Parte 2
+* Exemplos Práticos - Parte 3
+4. Armazenamento no Docker
+* Tipos de armazenamento
+* Exemplos práticos
+5. Nosso projeto no ar!
+Limites
+Implementando nosso projeto - Parte 1
+Implementando nosso projeto - Parte 2
+
+### Introdução prática a computação e nuve usando AWS<h3>
+1. Passo a passo no projeto prático AWS
+* Apresentação inicial e objetivos do curso
+* Conceitos iniciais sobre AWS e arquitetura do projeto prático
+* Apresentação inicial da plataforma AWS
+* Criando um pool de usuários com Amazon Cognito
+* Criando uma tabela com DynamoDB e criando funções Lambda
+* Editando o código-fonte em JavaScript
+* Criando uma API Gateway e rotas
+* Desenvolvendo as integrações
+* Dúvidas e comentários finais
+
+### Mentoria 08: Projeto Eduzz: Vislumbrando possibilidades de integração da aplicação com a nuvem<h3>
+
+### Projeto Eduzz: Retire todas as dúvidas encontradas no desenvolvimento do projeto<h3>
