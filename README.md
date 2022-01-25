@@ -398,11 +398,11 @@
 * Tipos de armazenamento
 * Exemplos práticos
 5. Nosso projeto no ar!
-Limites
-Implementando nosso projeto - Parte 1
-Implementando nosso projeto - Parte 2
+* Limites
+* Implementando nosso projeto - Parte 1
+* Implementando nosso projeto - Parte 2
 
-### Introdução prática a computação e nuve usando AWS<h3>
+### Introdução prática a computação em nuvem usando AWS<h3>
 1. Passo a passo no projeto prático AWS
 * Apresentação inicial e objetivos do curso
 * Conceitos iniciais sobre AWS e arquitetura do projeto prático
